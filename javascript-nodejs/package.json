@@ -4,6 +4,6 @@
   "description": "RabbitMQ amqp.node tutorial ",
   "dependencies": {
     "amqplib": "latest",
-    "js-beautify": "^1.9.1"
+    "js-beautify": "^1.14.2"
   }
 }
